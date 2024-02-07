@@ -1,0 +1,126 @@
+.container{
+    /* background-color: black; */
+}
+
+.header{
+    background-color: black;
+}
+
+.logotype{
+   padding-left: 30px;
+    padding-top: 30px;
+   color: white;
+}
+
+.menu{
+    display: flex;
+    gap: 100px;
+    /* float: right; */
+    padding-left: 150px;
+}
+
+.main{
+    text-decoration: none;
+    color: white;
+}
+
+.speakers{
+    text-decoration: none;
+    color: white;
+}
+
+.work_time{
+    text-decoration: none;
+    color: white;
+}
+
+.place{
+    text-decoration: none;
+    color: white;
+}
+
+.reg{
+    text-decoration: none;
+    color: white;
+}
+
+.registration{
+    background-color: springgreen;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.reg_secondary{
+    text-align: center;
+}
+
+.message{
+    text-align: center;
+}
+
+.ticket{
+
+}
+
+.price{
+    color: gray;
+}
+
+.buy{
+    padding-left: 170px;
+}
+
+.container_secondary{
+    width: 50%;
+    float: left;
+    padding-top: 60px;
+}
+
+.container_firstly{
+ float: left;
+ width: 50%;
+ padding-top: 60px;
+}
+
+.btn{
+    background-color: mediumslateblue;
+    border-radius: 5px;
+    border-color: white;
+}
+
+.fot_main{
+    text-decoration: none;
+    color: white;
+}
+
+.fot_speakers{
+    text-decoration: none;
+    color: white;
+}
+
+.fot_work_time{
+    text-decoration: none;
+    color: white;
+}
+
+.fot_place{
+    text-decoration: none;
+    color: white;
+}
+
+.fot_reg{
+    text-decoration: none;
+    color: white;
+}
+
+.fot_menu{
+    display: flex;
+    gap: 100px;
+    /* float: right; */
+    padding-left: 150px;
+}
+.fot{
+    width: 100%;
+    float: left;
+    background-color: midnightblue
+}
